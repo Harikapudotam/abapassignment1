@@ -1,0 +1,13 @@
+name : pudota mary harika
+uid : 280404
+-------------------------------------
+package name : z280404_pack
+set : 1
+--------------------------------
+q1 . table name : z280404vbrk
+q2 . table name : z280404vbrp
+q3 . interactive rep . Z280404BILLING
+q4. fm name : z404_get_billing
+se38 rep : z280404_fm_prog.
+q5. view name : z280404dbview
+    prog name : z404dbview.
